@@ -27,8 +27,4 @@ Project Workflow:
 9. spent_by_categories(1-10)
 10. job_title
 
-Data Cleansing: Dataset needed some data cleansing and pre-processes.
-1. Geting the age from the birth_date
-2. Removing null data
-
 
