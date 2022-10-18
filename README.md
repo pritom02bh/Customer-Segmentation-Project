@@ -1,6 +1,10 @@
 ## Customer-Segmentation-Project
 Using K Means Clustering
-                    `By Pritom Bhowmik'
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+                                                                     `By Pritom Bhowmik'
 
 Project Workflow:
 
