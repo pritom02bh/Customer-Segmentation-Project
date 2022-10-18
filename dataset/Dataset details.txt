@@ -1,0 +1,12 @@
+Spent_by_categories (1 to 10):
+
+1 : Health care products
+2 : Fashion Product
+3 : Home appliances
+4 : Car accessories
+5 : Furniture
+6 : Laptop-Mobile-Mac
+7 : Gamming Console
+8 : Home Decorator
+9 : Online Services (Netflix, Amazon Prime, Disney, HBO)
+10: Gym/yoga classes
