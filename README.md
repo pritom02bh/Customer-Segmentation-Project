@@ -1,7 +1,7 @@
 ## Customer-Segmentation-Project
 Using K Means Clustering
 
-Repository contains the dataset and it was own by Pritom Bhowmik.(Critical information is removed and open to use)
+      Repository contains the dataset and it was own by Pritom Bhowmik (Critical information is removed and open to use)
 
 Project Workflow:
 
