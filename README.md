@@ -14,7 +14,6 @@ Project Workflow:
 ### 1. Dataset Analysis:
 
 ![image](https://user-images.githubusercontent.com/56447975/196457039-56498413-31d0-4c0d-8d3d-43dce7a7c512.png)
-
                                                   
 1. customer_id
 2. gender	
